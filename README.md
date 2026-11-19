@@ -1,16 +1,23 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**ROBIN90089/ROBIN90089** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### `ROBIN90089@github ~ $ ./contributions.sh`
 
-Here are some ideas to get you started:
+<a href="https://github.com/ROBIN90089#contribution-activity">
+  <img src="https://ghchart.rshah.org/39d353/ROBIN90089" width="100%" alt="Public GitHub contribution calendar for ROBIN90089">
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br><br>
+
+### `ROBIN90089@github ~ $ whoami`
+
+<img src="assets/whoami.png" width="100%" alt="Terminal panels showing an ASCII rendering of the GitHub avatar and a project dashboard featuring curl-to-mock, devstudy, JavaScript, and TypeScript">
+
+<br><br>
+
+### `ROBIN90089@github ~ $ ./links.sh`
+
+[`GitHub`](https://github.com/ROBIN90089) &nbsp;·&nbsp;
+[`curl-to-mock`](https://github.com/ROBIN90089/curl-to-mock) &nbsp;·&nbsp;
+[`devstudy`](https://github.com/ROBIN90089/devstudy)
+
+</div>
